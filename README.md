@@ -1,16 +1,27 @@
-## Hi there 👋
+# Nexus Client
 
-<!--
-**nexus-client/nexus-client** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nexus Client is an independent custom Minecraft client focused on a clean and lightweight experience.
 
-Here are some ideas to get you started:
+Website:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://nexus-client.github.io/nexus-client/
+
+## Important Disclaimer
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
+Minecraft is a trademark of Mojang Studios. Microsoft, Mojang Studios and Minecraft are not responsible for Nexus Client.
+
+## Pages
+
+- Homepage: https://nexus-client.github.io/nexus-client/
+- Privacy Policy: https://nexus-client.github.io/nexus-client/privacy.html
+- Terms of Service: https://nexus-client.github.io/nexus-client/terms.html
+
+## Status
+
+Nexus Client is currently in development.
+
+## Notes
+
+Nexus Client does not provide Minecraft itself. Users must own a valid copy of Minecraft and use their own Microsoft/Minecraft account.
