@@ -1,6 +1,6 @@
 # Nexus Client
 
-Modern Minecraft launcher and client focused on performance, customization and compatibility.
+Modern Minecraft launcher and client-side enhancement project focused on performance, customization and compatibility.
 
 Website: https://nexus-client.github.io/nexus-client/
 
