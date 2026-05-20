@@ -90,6 +90,3 @@ Unauthorized redistribution, resale, impersonation or commercial use is prohibit
 
 Contact:
 goessler.konstantin@outlook.com
-
-GitHub:
-:contentReference[oaicite:2]{index=2}
