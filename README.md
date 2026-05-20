@@ -38,13 +38,9 @@ Additional features may be added over time.
 
 ## Downloads
 
-Official downloads are provided through GitHub Releases:
-
-:contentReference[oaicite:0]{index=0}
-
 Website:
 
-:contentReference[oaicite:1]{index=1}
+<Website Link>
 
 Only download Nexus Client from official sources.
 
