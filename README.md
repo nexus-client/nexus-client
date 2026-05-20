@@ -2,6 +2,8 @@
 
 Modern Minecraft launcher and client focused on performance, customization and compatibility.
 
+Website: https://nexus-client.github.io/nexus-client/
+
 ## Overview
 
 Nexus Client is a Minecraft client and launcher designed to provide a cleaner and more optimized Minecraft experience while remaining compatible with multiple modding ecosystems.
@@ -14,6 +16,7 @@ Supported platforms include:
 - NeoForge
 
 Nexus Client includes support for:
+
 - custom mods
 - modpacks
 - cosmetics
@@ -22,29 +25,13 @@ Nexus Client includes support for:
 
 Additional features may be added over time.
 
----
-
-## Features
-
-- Multi-version Minecraft support
-- Fabric / Forge / NeoForge compatibility
-- Performance-focused client optimizations
-- Cosmetic system
-- Mod and modpack support
-- Modern launcher experience
-- Lightweight and minimal interface
-
----
-
 ## Downloads
 
-Website:
+Official downloads will be provided through GitHub Releases:
 
-<Website Link>
+https://github.com/nexus-client/nexus-client/releases
 
 Only download Nexus Client from official sources.
-
----
 
 ## Microsoft & Mojang Disclaimer
 
@@ -54,11 +41,10 @@ Minecraft is a trademark of Mojang Studios.
 
 Users are responsible for complying with Minecraft's Terms of Service, Microsoft policies, and server rules.
 
----
-
 ## Privacy
 
 Nexus Client currently:
+
 - does not collect analytics
 - does not automatically collect telemetry
 - does not automatically upload crash reports
@@ -68,9 +54,15 @@ Authentication may require Microsoft account integration.
 
 Some authentication tokens and configuration data may be stored locally on the user's device for functionality purposes.
 
-For more information, see the Privacy Policy.
+Privacy Policy:
 
----
+https://nexus-client.github.io/nexus-client/privacy.html
+
+## Terms
+
+Terms of Use:
+
+https://nexus-client.github.io/nexus-client/terms.html
 
 ## License
 
@@ -80,9 +72,8 @@ Nexus Client and all associated branding, assets, source code, modifications and
 
 Unauthorized redistribution, resale, impersonation or commercial use is prohibited without permission.
 
----
-
 ## Support
 
 Contact:
+
 goessler.konstantin@outlook.com
